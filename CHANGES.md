@@ -1,7 +1,5 @@
 # Change log for REPOSITORY
 
-## Version 0.0.0
+## 2024-02-02
 
-* Write about a change here
-* Write about another change here
-* Write about a 3rd change
+Created this repo.

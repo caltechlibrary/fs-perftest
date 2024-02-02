@@ -13,15 +13,17 @@ authors:
   - family-names: Keswick
     given-names: Tommy
     orcid: https://orcid.org/0000-0001-5644-440X
-title: Caltech Library Software Repository Template
-abstract: Template repository for software projects by the Caltech Library
-version: 1.29.0
-date-released: 2024-01-30
-url: https://github.com/caltechlibrary/template
-repository-code: https://github.com/caltechlibrary/template
-license-url: https://github.com/caltechlibrary/template/blob/main/LICENSE
-doi: 10.22002/2ss86-v3f05
+title: fs-perftest
+abstract: Script to explore kernel parameter values for good file system performance.
+version: 0.0.1
+date-released: 2024-02-02
+url: https://github.com/caltechlibrary/fs-perftest
+repository-code: https://github.com/caltechlibrary/fs-perftest
+license-url: https://github.com/caltechlibrary/fs-perftest/blob/main/LICENSE
 type: software
 keywords:
-  - template
-  - software
+  - file system
+  - RAID
+  - optimization
+  - Linux
+  - Ubuntu
